@@ -2,7 +2,7 @@
 
 setwd("/Users/hannaaro/Desktop/GitHub/Data-Mining")
 
-options(scipen=999)
+options(scipen=999) 
 
 ####IMPORTAZIONE####
 
