@@ -1,6 +1,6 @@
 #MODELLO LINEARE ROBUSTO
 
-setwd("/Users/nicolomelchioretto/Desktop/DMTesina")
+setwd("/Users/hannaaro/Desktop/GitHub/Data-Mining")
 
 options(scipen=999)
 
